@@ -96,3 +96,5 @@ ipython_config.py
 
 # pip cache
 pip-wheel-metadata/
+
+.env
